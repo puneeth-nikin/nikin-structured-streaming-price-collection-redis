@@ -1,0 +1,7 @@
+,average_price,cancelled_quantity,disclosed_quantity,filled_quantity,instrument_token,order_id,order_timestamp,pending_quantity,quantity,status_message,symbol,transaction_type,status
+0,20081.85,0,0,1,232961,190215001458406,2019-02-15 11:44:34,0,1,,EICHERMOT,BUY,COMPLETE
+1,0.0,0,0,0,245249,190215001458793,2019-02-15 11:44:38,0,1,"RMS:Rule: Check holdings ,No Holdings Present  for entity account-VT7471 across exchange across segment across product ",ESCORTS,SELL,REJECTED
+2,658.15,0,0,1,2585345,190215001471176,2019-02-15 11:47:00,0,1,,GODREJCP,SELL,COMPLETE
+3,20058.05,0,0,1,232961,190215001474058,2019-02-15 11:47:35,0,1,,EICHERMOT,SELL,COMPLETE
+4,0.0,1,0,0,245249,190215001497531,2019-02-15 11:53:35,1,1,,ESCORTS,BUY,CANCELLED
+5,664.4,0,0,1,2585345,190215002662313,2019-02-15 15:23:34,0,1,,GODREJCP,BUY,COMPLETE
